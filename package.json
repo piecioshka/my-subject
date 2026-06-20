@@ -1,6 +1,7 @@
 {
   "name": "my-subject",
   "version": "1.0.0",
+  "license": "MIT",
   "description": "",
   "scripts": {
     "test": "jest --watchAll"
